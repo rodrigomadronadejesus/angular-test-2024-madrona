@@ -13,7 +13,7 @@ Como usuário gostaria de uma view em que pudesse ver uma lista de usuários. Na
 - Está pronto quando, ao clicar em qualquer ação entre adicionar, editar ou deletar usuário, surgir um alert "Ação {ação} clicada" 
 
 ## Layout sugerido
-[alt text](https://github.com/MediaCentre-BR/angular-test-052024/blob/main/src/assets/images/user-management.png?raw=true)
+![Layout Sugerido](https://github.com/MediaCentre-BR/angular-test-052024/blob/main/src/assets/images/user-management.png?raw=true)
 
 ## Observações
 - Não se espera que nessa tarefa se faça toda a interação CRUD, ou seja, apenas a listagem e visualizações de informações do usuário fazer parte da tarefa.
@@ -22,7 +22,7 @@ Como usuário gostaria de uma view em que pudesse ver uma lista de usuários. Na
 - Testes utilizando Karma serão considerados um plus.
 
 ## Referências Técnicas
-- A API pode ser acessada em JSONPlaceholder - Free Fake REST API (typicode.com). A API de usuários está em jsonplaceholder.typicode.com/users
+- A API pode ser acessada em [JSONPlaceholder - Free Fake REST API (typicode.com)](jsonplaceholder.typicode.com). A API de usuários está em [jsonplaceholder.typicode.com/users](jsonplaceholder.typicode.com/users)
 
 ## Para realização do teste siga as instruções abaixo:
 - Faça o clone do repositório que contém o projeto inicial em Angular

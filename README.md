@@ -1,27 +1,32 @@
 # AngularTest052024
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+Esse projeto visa ser um teste angular para avaliação do nível de Angular do candidato.
 
-## Development server
+## Estória
+Como usuário gostaria de uma view em que pudesse ver uma lista de usuários. Na lista devem haver botões de ação para editar e remover o usuário.  No topo superior um botão de adicionar usuário. Ao clicar no botão "more" as informações do usuario devem aparecer abaixo dele empurrando as demais linhas para baixo.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Critérios de aceite
+- Está pronto quando for possivel visualizar a lisa de usuários
+- Esta pronto quando houver botões de ação de editar e deletar em cada linha
+- Está pronto quando, ao clicar "more" as demais informações a respeito do usuário aparecer abaixo dele empurrando as demais linhas de usuário para baixo
+- Está pronto quando houver um botão de adicionar usuário estiver sobre a lista
+- Está pronto quando, ao clicar em qualquer ação entre adicionar, editar ou deletar usuário, surgir um alert "Ação {ação} clicada" 
 
-## Code scaffolding
+## Layout sugerido
+[alt text](https://github.com/MediaCentre-BR/angular-test-052024/blob/main/src/assets/images/user-management.png?raw=true)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Observações
+- Não se espera que nessa tarefa se faça toda a interação CRUD, ou seja, apenas a listagem e visualizações de informações do usuário fazer parte da tarefa.
+- O Layout sugerido tal qual colocado é uma sugestão. É importante haver alguma responsividade mas apenas cobrindo monitores de desktop (1024 a 1920px de width).
+- Utilize tanto quanto possivel transições para gerar um UX mais agradável.
+- Testes utilizando Karma serão considerados um plus.
 
-## Build
+## Referências Técnicas
+- A API pode ser acessada em JSONPlaceholder - Free Fake REST API (typicode.com). A API de usuários está em jsonplaceholder.typicode.com/users
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Para realização do teste siga as instruções abaixo:
+- Faça o clone do repositório que contém o projeto inicial em Angular
+- Troque a branch para angular-test/seu-nome
+- Desenvolva conforme enunciado
+- Faça commits separando cada etapa do desenvolvimento que terminar
+- Finalizado faça o push para o remote e notifique a entrega.

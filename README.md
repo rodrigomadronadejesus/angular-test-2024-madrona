@@ -22,7 +22,7 @@ Como usuário gostaria de uma view em que pudesse ver uma lista de usuários. Na
 - Testes utilizando Karma serão considerados um plus.
 
 ## Referências Técnicas
-- A API pode ser acessada em [JSONPlaceholder - Free Fake REST API (typicode.com)](jsonplaceholder.typicode.com). A API de usuários está em [jsonplaceholder.typicode.com/users](jsonplaceholder.typicode.com/users)
+- A API pode ser acessada em [JSONPlaceholder - Free Fake REST API (typicode.com)](https://jsonplaceholder.typicode.com). A API de usuários está em [jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
 
 ## Para realização do teste siga as instruções abaixo:
 - Faça o clone do repositório que contém o projeto inicial em Angular

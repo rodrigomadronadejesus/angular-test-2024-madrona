@@ -30,8 +30,9 @@ Caso todos os itens acima já tenham sido resolvidos será considerado um plus c
 - A API pode ser acessada em [JSONPlaceholder - Free Fake REST API (typicode.com)](https://jsonplaceholder.typicode.com). A API de usuários está em [jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
 
 ## Para realização do teste siga as instruções abaixo:
-- Faça o clone do repositório que contém o projeto inicial em Angular
-- Troque a branch para angular-test/seu-nome
-- Desenvolva conforme enunciado
-- Faça commits separando cada etapa do desenvolvimento que terminar
-- Finalizado faça o push para o remote e notifique a entrega.
+- Faça o fork desse repositório
+- Clone o projeto a partir do fork para seu local
+- Realize o teste.
+- Faça o push para main do seu repositório.
+- Acrescente um pull request comparando a main do seu fork com o main desse repositório.
+- Fique a vontade para adicionar comentários que considerar pertimente. Organização de commits também será levado em consideração.

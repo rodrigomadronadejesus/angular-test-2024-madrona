@@ -34,5 +34,7 @@ Caso todos os itens acima já tenham sido resolvidos será considerado um plus c
 - Clone o projeto a partir do fork para seu local
 - Realize o teste.
 - Faça o push para main do seu repositório.
-- Acrescente um pull request comparando a main do seu fork com o main desse repositório.
-- Fique a vontade para adicionar comentários que considerar pertimente. Organização de commits também será levado em consideração.
+- Envie o link do seu repositório para gustavo.gabriel@mediacentre.network com o título no e-mail [angular-test]seu-nome
+- Repositórios com commits após 12:00 do dia 19/08 serão desconsiderados.
+
+## Bom Código!
